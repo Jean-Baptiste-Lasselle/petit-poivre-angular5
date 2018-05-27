@@ -8,13 +8,13 @@ mais avant de créer ma propre application Angular 5, je vais en utilsier une au
 
 https://github.com/KrunalLathiya/Angular5CRUD
 
-et cette application est censée être le résultat du tutoriel suivant:
+cette application est censée être le résultat du tutoriel suivant:
 
 https://appdividend.com/2018/01/21/angular-5-crud-tutorial-example-scratch/
 
-
 L'intéressant est qu'il met en oeuvre mongodb pour la persistance.
 
+l'entier code source de l'application est présent dans le répertoire `./exemple` du présent repository GIt.
 
 
 
